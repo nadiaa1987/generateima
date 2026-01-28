@@ -1,0 +1,5 @@
+{
+  "name": "PixelMorph AI",
+  "description": "A SaaS application for transforming and editing images using AI. Upload an image and provide a prompt to generate variations or edits.",
+  "requestFramePermissions": []
+}
